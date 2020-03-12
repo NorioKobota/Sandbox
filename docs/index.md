@@ -9,6 +9,6 @@
 {% include_relative subdir2/upcoming.md %}  
 
 ### subdir3  
-{% include_relative subdir2/upcoming.md %}  
+{% include_relative subdir3/upcoming.md %}  
 
 EOF
